@@ -1,0 +1,170 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     2007 MB
+    Driver:   23.21.13.9065
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\61694\Desktop\Final\final_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\61694\Desktop\Final\final_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\61694\Desktop\Final\final_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\61694\Desktop\Final\final_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.020 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+UnloadTime: 1.027974 ms
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     2007 MB
+    Driver:   23.21.13.9065
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\61694\Desktop\Final\final_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\61694\Desktop\Final\final_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\61694\Desktop\Final\final_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\61694\Desktop\Final\final_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.020 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3140 -> priority: 1 
+  Thread -> id: 25a0 -> priority: 1 
+<RI> Initialized touch support.
+UnloadTime: 1.569385 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 16c0 -> priority: 1 
+  Thread -> id: 2454 -> priority: 1 
+NetworkWriter inlobby (UnityEngine.GameObject) has no NetworkIdentity
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkWriter end (UnityEngine.GameObject) has no NetworkIdentity
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkWriter inlobby (UnityEngine.GameObject) has no NetworkIdentity
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkWriter end (UnityEngine.GameObject) has no NetworkIdentity
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     2007 MB
+    Driver:   23.21.13.9065
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\61694\Desktop\Final\final_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\61694\Desktop\Final\final_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\61694\Desktop\Final\final_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\61694\Desktop\Final\final_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\61694\Desktop\Final\final_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.021 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.137347 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 25d8 -> priority: 1 
+  Thread -> id: 3110 -> priority: 1 
+NetworkWriter inlobby (UnityEngine.GameObject) has no NetworkIdentity
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkWriter end (UnityEngine.GameObject) has no NetworkIdentity
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to send command for object without authority.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkWriter inlobby (UnityEngine.GameObject) has no NetworkIdentity
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkWriter end (UnityEngine.GameObject) has no NetworkIdentity
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: connection {3} has been disconnected by timeout; address {::ffff:127.0.0.1:61031} time {81836}, last rec time {79363} rtt {10} timeout {2000}
+Attempt to send to not connected connection {3}
+ 
+(Filename:  Line: 362)
+
+Failed to send internal buffer channel:0 bytesToSend:14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Send Error: WrongConnection channel:0 bytesToSend:14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ServerDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkWriter inlobby (UnityEngine.GameObject) has no NetworkIdentity
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkWriter end (UnityEngine.GameObject) has no NetworkIdentity
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777} time {102362}, last rec time {100360} rtt {2} timeout {2000}
+ClientDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777} time {91600}, last rec time {89117} rtt {11} timeout {2000}
+ClientDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.838807 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 578.
+Total: 1.142799 ms (FindLiveObjects: 0.087562 ms CreateObjectMapping: 0.053884 ms MarkObjects: 0.950996 ms  DeleteObjects: 0.048111 ms)
+
